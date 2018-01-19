@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/android/app" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/android/build" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/android/gradle" includeSubdirectories="true" />
+      <file url="file://$PROJECT_DIR$/android/android.iml" />
+      <file url="file://$PROJECT_DIR$/android/build.gradle" />
+      <file url="file://$PROJECT_DIR$/android/gradle.properties" />
+      <file url="file://$PROJECT_DIR$/android/settings.gradle" />
+      <file url="file://$PROJECT_DIR$/android/local.properties" />
+      <file url="file://$PROJECT_DIR$/android/gradlew.bat" />
+      <file url="file://$PROJECT_DIR$/android/gradlew" />
+    </excludeFromCompile>
+    <bytecodeTargetLevel>
+      <module name="capomap_main" target="1.8" />
+      <module name="capomap_test" target="1.8" />
+      <module name="core_main" target="1.8" />
+      <module name="core_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
