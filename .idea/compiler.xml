@@ -14,6 +14,8 @@
       <file url="file://$PROJECT_DIR$/android/gradlew" />
     </excludeFromCompile>
     <bytecodeTargetLevel>
+      <module name="capomap-core_main" target="1.8" />
+      <module name="capomap-core_test" target="1.8" />
       <module name="capomap_main" target="1.8" />
       <module name="capomap_test" target="1.8" />
       <module name="core_main" target="1.8" />

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-core.iml" filepath="$PROJECT_DIR$/.idea/modules/android-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/capomap.iml" filepath="$PROJECT_DIR$/.idea/modules/capomap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/capomap-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/capomap-core_main.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/capomap-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/capomap-core_test.iml" group="core" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/capomap_main.iml" filepath="$PROJECT_DIR$/.idea/modules/capomap_main.iml" group="capomap" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/capomap_test.iml" filepath="$PROJECT_DIR$/.idea/modules/capomap_test.iml" group="capomap" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="core" />
